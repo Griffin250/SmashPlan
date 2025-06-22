@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92323286740",
+    "project_id": "smashplan",
+    "storage_bucket": "smashplan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92323286740:android:98013d98db467785b5b541",
+        "android_client_info": {
+          "package_name": "com.smashedas.smashplan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnZOgZonuLAch6ah8loHykWaHhnsTbOME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
